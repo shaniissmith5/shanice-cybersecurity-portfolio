@@ -36,7 +36,7 @@ This journal documents my hands-on cybersecurity training through TryHackMe labs
 - Security Concepts
 - Command-line usage and troubleshooting
 
-🔗 [View My TryHackMe Journal](https://docs.google.com/document/d/1jEtK6Fp9Q_p0djsBgsdDz_Z2460ufzf9eWHZ72a-WdHE/edit?usp=sharing)
+🔗 [View My TryHackMe Journal](https://docs.google.com/document/d/1xEaT4Jn42wTGGpnWgio4PfKH6dor0NVjB_DKGwaYDC0/edit?tab=t.0#heading=h.slg4z2fxyog6)
 
 ### Incident Handler's Journal
 **Coming Soon**
